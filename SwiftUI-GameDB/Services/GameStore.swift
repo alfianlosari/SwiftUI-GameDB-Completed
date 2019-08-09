@@ -16,7 +16,7 @@ class GameStore: GameService {
     private init() {}
     
     lazy var iGDB: IGDBWrapper = {
-        $0.userKey = "0108cc7c1d225f70e36a997abf8c2d71"
+        $0.userKey = "APIKEY"
         return $0
     }(IGDBWrapper())
     

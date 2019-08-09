@@ -3,17 +3,14 @@ PODS:
     - Just
     - SwiftProtobuf (~> 1.0)
   - Just (0.8.0)
-  - Kingfisher (5.7.0)
   - SwiftProtobuf (1.6.0)
 
 DEPENDENCIES:
   - IGDB-SWIFT-API (from `https://github.com/husnjak/IGDB-API-SWIFT.git`)
-  - Kingfisher
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Just
-    - Kingfisher
     - SwiftProtobuf
 
 EXTERNAL SOURCES:
@@ -28,9 +25,8 @@ CHECKOUT OPTIONS:
 SPEC CHECKSUMS:
   IGDB-SWIFT-API: 8171c8cff2a6cdfe51b8593a9ec1a0a557afb692
   Just: aef5105fb2c7069b65aa6f21aec8f429057f9c19
-  Kingfisher: c7d211b54f1f30d8060aadab177d52b4349c825b
   SwiftProtobuf: e905ca1366405696411aaf174411c4b19c0ef73d
 
-PODFILE CHECKSUM: 594159701e78eaa86c1b6777021a4d7f974411c0
+PODFILE CHECKSUM: 8890d64bf3e729b0b9c3d65f0d9a239c360ec9b2
 
 COCOAPODS: 1.7.1
